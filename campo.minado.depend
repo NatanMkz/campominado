@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1592866226 source:d:\workshop\campo.minado\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+
+1592962450 source:c:\users\natanmkz\desktop\pastinha\sistemas\faculdade\campo.minado\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+
